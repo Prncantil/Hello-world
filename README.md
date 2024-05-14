@@ -1,1 +1,2 @@
 # Hello-world
+hi, my name is Prince Antil. I chose web development because I am interested in tech, and I also have a bachelor's degree in computer so that's why I chose this course. I want to learn more about web development and secure a good job.
